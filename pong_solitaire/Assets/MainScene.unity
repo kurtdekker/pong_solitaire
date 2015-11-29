@@ -888,9 +888,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14667611d0a2d449fa4c6f22518acb69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  enableAutoPlay: 0
+  gameStart: {fileID: 8300000, guid: 1e9d167f9c7ca4e6e84f7df5adf1b830, type: 3}
+  ballBounceWalls: {fileID: 8300000, guid: 4f23ccebcbf7642c693bb6030ded0fe6, type: 3}
+  ballBouncePlayer: {fileID: 8300000, guid: c46383b45cceb4c3cab692fea3c6b139, type: 3}
+  gameIsOver: {fileID: 8300000, guid: 4a554105a5a0841ef9c5c472bd6a44fe, type: 3}
   GreetingScreenRoot: {fileID: 1160864289}
   TextScore: {fileID: 20686515}
   TextHighScore: {fileID: 1307759810}
+  mtl_ball: {fileID: 2100000, guid: 12e15cfade07d4542972cf12c820ab8e, type: 2}
 --- !u!4 &1688600556
 Transform:
   m_ObjectHideFlags: 0
@@ -929,13 +935,13 @@ Light:
   serializedVersion: 6
   m_Type: 1
   m_Color: {r: 1, g: .956862748, b: .839215696, a: 1}
-  m_Intensity: 1
+  m_Intensity: .400000006
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
-    m_Resolution: 3
+    m_Type: 0
+    m_Resolution: 0
     m_Strength: 1
     m_Bias: .0500000007
     m_NormalBias: .400000006
@@ -957,7 +963,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1894913153}
-  m_LocalRotation: {x: -.172987446, y: .0858313218, z: -.0151343802, w: -.981060326}
+  m_LocalRotation: {x: -.408217967, y: .234569386, z: -.109381512, w: -.875426173}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
