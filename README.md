@@ -1,8 +1,12 @@
-November 29, 2015
-
 Unity3D Pong Solitaire Tutorial
 
+by Kurt Dekker
+
+http://www.plbm.com/ - http://www.twitter.com/kurtdekker
+
 This repository is a tutorial for Pong solitaire (one paddle, one ball, three walls).
+
+Let's do it in one scene with one script.
 
 Let's break down the problem of writing a pong game:
 
