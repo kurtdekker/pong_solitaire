@@ -1,4 +1,4 @@
-Unity3D Pong Solitaire - One Scene One Script
+Unity3D Pong Solitaire - One Scene One Script (and a few assets)
 
 This repository is super-simple Pong solitaire (one paddle, one ball, three walls).
 
@@ -6,7 +6,7 @@ by Kurt Dekker - http://www.plbm.com/ - http://www.twitter.com/kurtdekker
 
 Unity 5.2.2f1 - kicked off November 29, 2015
 
-Let's do it in one scene with one script.
+Let's do it in one scene with one script (and a few assets).
 
 Let's break down the problem of writing a pong game:
 
