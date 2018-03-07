@@ -5,6 +5,7 @@ This repository is super-simple Pong solitaire (one paddle, one ball, three wall
 by Kurt Dekker - http://www.plbm.com/ - http://www.twitter.com/kurtdekker
 
 Unity 5.2.2f1 - kicked off November 29, 2015
+Unity 5.5.1f1 - updated March 7, 2018
 
 Let's do it in one scene with one script (and a few assets).
 
