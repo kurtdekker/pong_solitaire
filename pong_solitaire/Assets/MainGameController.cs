@@ -78,7 +78,7 @@ public class MainGameController : MonoBehaviour
 	}
 	public void ButtonActionPLBMGames()
 	{
-		Application.OpenURL ("http://www.plbm.com");
+		Application.OpenURL ("http://plbm.com/?page_id=50");
 	}
 
 	int score;

@@ -481,8 +481,6 @@ GameObject:
   m_Component:
   - component: {fileID: 629615633}
   - component: {fileID: 629615632}
-  - component: {fileID: 629615631}
-  - component: {fileID: 629615630}
   - component: {fileID: 629615629}
   m_Layer: 0
   m_Name: Main Camera
@@ -493,20 +491,6 @@ GameObject:
   m_IsActive: 1
 --- !u!81 &629615629
 AudioListener:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 629615628}
-  m_Enabled: 1
---- !u!124 &629615630
-Behaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 629615628}
-  m_Enabled: 1
---- !u!92 &629615631
-Behaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
@@ -1160,7 +1144,7 @@ MonoBehaviour:
   m_ScaleFactor: 1
   m_ReferenceResolution: {x: 800, y: 600}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 1
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
