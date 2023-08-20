@@ -1,0 +1,7 @@
+Pong Solitaire is presently hosted at these locations:
+
+https://bitbucket.org/kurtdekker/pong_solitaire
+
+https://github.com/kurtdekker/pong_solitaire
+
+https://gitlab.com/kurtdekker/pong_solitaire
